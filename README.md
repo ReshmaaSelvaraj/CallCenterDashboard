@@ -1,10 +1,10 @@
 # Call Center Dashboard  
 
-![Call Center Dashboard Preview](https://github.com/ReshmaaSelvaraj/CallCenterDashboard/raw/main/dashboard-preview.png)  
-*Screenshot of the Call Center Dashboard created using Power BI.*  
-
 ## Project Overview  
-The **Call Center Dashboard** is a Power BI project designed to monitor and analyze call center performance metrics. This dashboard empowers decision-makers with actionable insights to enhance operational efficiency, improve customer satisfaction, and boost agent performance, ultimately optimizing call center operations.  
+The **Call Center Dashboard** is a Power BI project designed to monitor and analyze call center performance metrics. This dashboard empowers decision-makers with actionable insights to enhance operational efficiency, improve customer satisfaction, and boost agent performance, ultimately optimizing call center operations. 
+
+![Call Center Dashboard Preview](https://github.com/ReshmaaSelvaraj/CallCenterDashboard/blob/main/Call%20Centre.png)  
+*Screenshot of the Call Center Dashboard created using Power BI.*   
 
 ## Key Features  
 
